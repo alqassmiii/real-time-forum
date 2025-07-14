@@ -36,9 +36,12 @@ A full-featured real-time forum web application built with a **JavaScript fronte
 ---
 
 ## 📸 Screenshots
+<img width="4032" height="2302" alt="HomePage" src="https://github.com/user-attachments/assets/0335e52d-73af-4962-a330-54c146945239" />
+<img width="4032" height="2302" alt="Sign-up" src="https://github.com/user-attachments/assets/1046801b-bf4d-4ee3-8b6f-d324a105c568" />
+<img width="1608" height="976" alt="Profile" src="https://github.com/user-attachments/assets/e3f029db-a089-40be-9fc2-a543d4c834d6" />
 
 <img width="4032" height="2302" alt="ChatView" src="https://github.com/user-attachments/assets/1dcb4ef9-f793-4020-85d2-1745c1dbb50d" />
-<img width="4032" height="2302" alt="ChatView" src="https://github.com/user-attachments/assets/6c2477bc-7466-4559-a0fc-26d959e52618" />
+
 
 
 
