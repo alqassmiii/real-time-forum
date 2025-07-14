@@ -38,6 +38,8 @@ A full-featured real-time forum web application built with a **JavaScript fronte
 ## 📸 Screenshots
 
 <img width="4032" height="2302" alt="ChatView" src="https://github.com/user-attachments/assets/1dcb4ef9-f793-4020-85d2-1745c1dbb50d" />
+<img width="4032" height="2302" alt="ChatView" src="https://github.com/user-attachments/assets/6c2477bc-7466-4559-a0fc-26d959e52618" />
+
 
 
 ---
